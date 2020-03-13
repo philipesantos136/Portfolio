@@ -14,8 +14,7 @@ Entusiasta na área de IOT, minha carreira iniciou com um intercâmbio de inglê
 Confira o código fonte no Github:
 
 ## Seleção de parâmetros
-* **Constantes, Semi-constantes e Duplicados:** https://github.com/philipesantos136/Portfolio/blob/master/Feature-Selection/Par%C3%A2metros%20constantes%2C%20Semi-constantes%20e%20Duplicados.ipynb
-
+* **Constantes, Semi-constantes e Duplicados:** https://bit.ly/2IOc0RS
 ---
 
 
