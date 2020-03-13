@@ -2,7 +2,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/philipesantos136/Portfolio/issues)
 
 # Philipe Santos
-<sub>*Estágiário* em ESC Engenharia de Sistemas de Controle</sub>
+<sub>*Estágiário* em ESC Engenharia de Sistemas de Controle ltda</sub>
 
 Entusiasta na área de IOT, minha carreira iniciou com um intercâmbio de inglês através sistema S (Sesi/Senai). Unindo os conhecimentos do curso técnico de Autom. Industrial e de Eng. de Controle e Automação, pude ingressar no mercado junto a ESC Engenharia, onde pude realizar o desenvolvimento de sistemas SCADA e, em determinado momento, fui introduzido ao Data Science com Python. Atualmente, é a área que estou mais entusiamado, IA e modelos de aprendizado me fascinam, e acredito que a IA é a invenção mais fantástica da humanidade.
 
