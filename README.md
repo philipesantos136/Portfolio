@@ -7,7 +7,7 @@ Entusiasta na área de IOT, minha carreira iniciou com um intercâmbio de inglê
 
 "So begins a new age of knowledge" Invoker, Dota2
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Previsão de Séries Temporais, Problemas de classificação.
 
 
 ## Projetos:
