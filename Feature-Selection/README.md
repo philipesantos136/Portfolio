@@ -13,3 +13,9 @@ Os recursos de dados que você usa para treinar seus modelos de aprendizado de m
 
 Recursos irrelevantes ou parcialmente relevantes podem afetar negativamente o desempenho do modelo.
 A seleção de recursos e a limpeza de dados devem ser a primeira e mais importante etapa do design do seu modelo.
+
+Utilizando dados disponibilizados no [Kaggle]('https://kaggle.com/'), construiremos um modelo de Machine Learning capaz de nos ajudar a prever concessão de crédito no banco Santander.
+
+> É importante ressaltar que esses dados não representam informações reais de clientes, qualquer informação foi omitida e a identificação de cada cliente fictício é feita através de IDs. 
+
+> Também é importante lembrar que o objetivo principal desse projeto é demonstrar a redução de dimensionalidade, os ganhos e as perdas inerenter ao processo e uma análise conclusiva sobre cada etapa.
