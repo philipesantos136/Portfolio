@@ -14,7 +14,7 @@ Entusiasta na área de IOT, minha carreira iniciou com um intercâmbio de inglê
 ## Projetos:
 Confira o código fonte no Github:
 
-### Seleção de parâmetros/ Redução de Dimensionalidade
+### Seleção de parâmetros/Redução de dimensionalidade
 * **Constantes, Semi-constantes e Duplicados:** https://bit.ly/38SD8d3
 ---
 
